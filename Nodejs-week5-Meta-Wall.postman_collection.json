@@ -12,18 +12,16 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:3005/api/posts",
-					"protocol": "http",
+					"raw": "https://nodejs-week5-meta-wall.onrender.com/api/postsd",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"nodejs-week5-meta-wall",
+						"onrender",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"api",
-						"posts"
+						"postsd"
 					]
 				}
 			},
@@ -35,15 +33,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:3005/api/posts?timeSort=desc",
-					"protocol": "http",
+					"raw": "https://nodejs-week5-meta-wall.onrender.com/api/posts?timeSort=desc",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"nodejs-week5-meta-wall",
+						"onrender",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"api",
 						"posts"
@@ -64,15 +60,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:3005/api/posts?Keyword=test",
-					"protocol": "http",
+					"raw": "https://nodejs-week5-meta-wall.onrender.com/api/posts?Keyword=test",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"nodejs-week5-meta-wall",
+						"onrender",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"api",
 						"posts"
@@ -93,15 +87,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:3005/api/posts?timeSort=monthDesc",
-					"protocol": "http",
+					"raw": "https://nodejs-week5-meta-wall.onrender.com/api/posts?timeSort=monthDesc",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"nodejs-week5-meta-wall",
+						"onrender",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"api",
 						"posts"
@@ -131,15 +123,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:3005/api/posts",
-					"protocol": "http",
+					"raw": "https://nodejs-week5-meta-wall.onrender.com/api/posts",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"nodejs-week5-meta-wall",
+						"onrender",
+						"com"
 					],
-					"port": "3005",
 					"path": [
 						"api",
 						"posts"
